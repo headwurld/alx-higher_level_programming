@@ -1,0 +1,1 @@
+This repository contains a simple shell script designed to execute a Python script, with the filename stored in the environment variable $PYFILE. This allows for easy automation and execution of Python scripts using a shell script.
