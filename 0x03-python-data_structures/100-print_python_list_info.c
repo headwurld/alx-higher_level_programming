@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * print_python_list_info - gives data of the PyListObject
+ * print_python_list_info - functions that gives data of the PyListObject
  *
- * @p: the PyObject
+ * @p: the PyObject listed
  */
 
 void print_python_list_info(PyObject *p)
